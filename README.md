@@ -1,2 +1,2 @@
 # dotfiles
-New home to consolidate my preferences, settings, and configs
+Test Env for trying out different Dotfile managers without messing my priamry dotfile repo 
