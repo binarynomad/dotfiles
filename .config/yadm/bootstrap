@@ -1,0 +1,5 @@
+#!/bin/sh
+
+# Example of a boot strap file
+[ ! -d "$HOME/dev" ] && mkdir  "$HOME/dev"
+[ ! -d "$HOME/tmp" ] && mkdir  "$HOME/tmp"
