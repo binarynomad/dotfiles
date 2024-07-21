@@ -12,3 +12,4 @@ export FLUTTER_HOME=$HOME/flutter
 export PATH=$HOME/flutter:$HOME/flutter/bin/:$HOME/flutter/bin/cache/dart-sdk/bin:$PATH
 
 # this is a private note
+# This is my CUSTOM PROFILE
