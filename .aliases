@@ -1,0 +1,3 @@
+source ~/.aliases-local
+
+alias ll='ls -lad'
