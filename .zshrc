@@ -1,1 +1,1 @@
-source .aliases-local
+source .aliases
